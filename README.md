@@ -1,12 +1,12 @@
-# "React JS - React Controlled Form Inputs"
+# "React JS - JSON Server"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
 
-This repository shares the styles applied during the Youtube tutorial. The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.  
+This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.  
 
-[YouTube Tutorial](https://youtu.be/r5ombQn3fHY) for this repository.
+[YouTube Tutorial]() for this repository.
 
 I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
